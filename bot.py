@@ -118,7 +118,7 @@ async def start(client, message : Message):
                         "This Bot Can Search PornHub\n"
                         "Videos & Download Them For You\n"
                         "━━━━━━━━━━━━━━━━━━━━━\n"
-                        "⚠️The Bot Contains 18+ Content\n"
+                        "⚠️The Bot Contains 18+ Content and owned by @KaNeKi354_bot \n"
                         "So Kindly Access it with Your own\n"
                         "Risk. Children Please Stay Away.\n" 
                         "We don't intend to spread Pørno-\n"
